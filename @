@@ -1,0 +1,10 @@
+.container{
+ width:980px !important;
+}
+.holyoke_logo{
+ width:374px;
+ margin: 0 auto;
+ display:block;
+ margin-top:15px;
+ margin-bottom:15px;
+}
