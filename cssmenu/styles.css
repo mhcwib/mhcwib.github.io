@@ -306,8 +306,5 @@
   #cssmenu .submenu-button.submenu-opened:after {
     display: none;
   }
-  
-  #cssmenu h3 {
-    color:#0066cc;
-  }
+
 }
