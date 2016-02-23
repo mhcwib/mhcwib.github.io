@@ -27,12 +27,12 @@ p{
  font-family:'open sans light',verdana, sans-serif;
  font-size: 80%;
 }
-h6.a{
+div.box{
  background-color:#990000;
+     width: 200px;
+    padding: 25px;
 }
-h4.a{
- background-color:#009999;
-}
+
 ul.a{
  font-family:'open sans light',verdana, sans-serif;
  font-size: 80%;
