@@ -32,7 +32,9 @@ ul.a{
  font-size: 80%;
 }
 div.box{
-  background-color:#009ae1;
+ background-color:#009ae1;
+ color:white;
+
 }
 .three_girls{
 width:100%;
