@@ -31,17 +31,17 @@ ul.a{
  font-family:'open sans light',verdana, sans-serif;
  font-size: 80%;
 }
-div.bluebox{
+div.one{
  background-color:#009ae1;
  color:white;
  padding: 10px;
 }
-div.redbox{
+div.two{
  background-color:#E60000;
  color:white;
  padding: 10px;
 }
-div.yellowbox{
+div.three{
  background-color:#009ae1;
  color:white;
  padding: 10px;
