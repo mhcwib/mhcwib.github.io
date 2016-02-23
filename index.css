@@ -27,7 +27,7 @@ p{
  font-family:'open sans light',verdana, sans-serif;
  font-size: 80%;
 }
-ul {
+ul li{
     background: #3399ff;
     padding: 20px;
 }
