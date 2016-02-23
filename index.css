@@ -31,6 +31,9 @@ ul.a{
  font-family:'open sans light',verdana, sans-serif;
  font-size: 80%;
 }
+div.box{
+  background-color:#009ae1;
+}
 .three_girls{
 width:100%;
 }
